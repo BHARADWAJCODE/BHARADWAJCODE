@@ -35,5 +35,6 @@
 
 <a href = "https://twitter.com/BHARADWAJDVRS"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/bharadwajdvrs/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.linkedin.com/in/bharadwajdvrs/"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png"/></a>
 
 </p>
