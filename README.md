@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently *13 yEARS oLD*
+- 🌱 Born On *12/06/2008*
 
 - 👨‍💻My Websites So Far - **[My Personal Website](https://dvrscodes.com) , [My Calc Site](https://uz2qwcmmbpn6z1i2zizagw-on.drv.tw/www.dvrscalcs.ml/) , [Mathematics Courses](https://www.vittalsmathmagics.org) , [BlogSpot](https://dvrscodes.blogspot.com/) , [Snake Xenxia](https://bharadwajcode.github.io/www.snakexenzia.ml/) , [Tic Tac Toe](https://bharadwajcode.github.io/www.tictactoe.com/) , [Blastup](https://bharadwajcode.github.io/www.blastup.com/) , [Fruit Slash](https://bharadwajcode.github.io/www.fruitslash.com/) , [Tertis](https://bharadwajcode.github.io/www.tetris.play/)**
 
