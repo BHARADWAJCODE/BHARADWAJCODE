@@ -9,21 +9,35 @@
 
 -  Born On *12/06/2008*
 
-- 💻 My Websites So Far - **Developments
-2+ Softwares
-10+ Websites (can be viewed by visiting my github repos)
-2 android apps - Speech To Text Telugu(Play Store), Smiti Women Safety App (to be published)
-8 Desktop Games - Snake Xenzia, Clock, Spinner, Caterpillar, SPACE-WARS, COVID-WAR, SPACE-WARS v2, Fruit Ninja(clone)
-Websites
-PERSONAL
-EDUCATIONAL
-TETRIS
-FRUIT SLASH
-BLAST UP
-TIC TAC TOE
-SNAKE XENZIA
-(Inspired by ideas & assignment projects from youtube)
-and few more...**
+- 💻 My Websites So Far - **<h4>Developments</h4>
+              <ul>
+                <li><STRong>2+ Softwares</STRong></li>
+                <li><Strong>10+ Websites (can be viewed by visiting my github repos)</Strong></li>
+                <li><strong>2 android apps - Speech To Text Telugu(Play Store), Smiti Women Safety App (to be published)</strong></li>
+                <li><strong>8 Desktop Games - Snake Xenzia, Clock, Spinner, Caterpillar, SPACE-WARS, COVID-WAR, SPACE-WARS v2, Fruit Ninja(clone)</strong></li>
+              </ul>
+            </div>
+
+            
+          </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title"> </h3>
+            
+            <div class="resume-item"> 
+              <h4>Websites</h4>
+              <ul>
+                
+              <li><a href="dvrscodes.com" class="resume-pdf"> PERSONAL  </a></li>
+              <li><a href="https://bharadwajcode.github.io/vittalsmathmagics.github.io/" class="resume-pdf"> EDUCATIONAL </a></li>
+              <li><a href="https://bharadwajcode.github.io/www.tetris.play/" class="resume-pdf"> TETRIS </a></li>
+              <li><a href="https://bharadwajcode.github.io/www.fruitslash.com/" class="resume-pdf"> FRUIT SLASH </a></li>
+              <li><a href="https://bharadwajcode.github.io/www.blastup.com/" class="resume-pdf"> BLAST UP </a></li>
+              <li><a href="https://bharadwajcode.github.io/www.tictactoe.com/" class="resume-pdf"> TIC TAC TOE </a></li>
+              <li><a href="https://bharadwajcode.github.io/www.snakexenzia.ml/" class="resume-pdf"> SNAKE XENZIA </a></li>
+              (Inspired by ideas & assignment projects from youtube)
+              <br>
+              and few more...**
 
 - 📫 How to reach me **bharadwajdvrs@gmail.com**
 
