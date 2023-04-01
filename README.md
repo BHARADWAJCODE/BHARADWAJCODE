@@ -1,15 +1,29 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm BHARADWAJ.D.V.R.S.</h1>
-<h3 align="center">I'm a Programmer, Coder, Developer from India.</h3>
+<!-- https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif -->
+<h1 align="center">Hi, I'm BHARADWAJ.D.V.R.S. 🖥</h1>
+<h3 align="center">I'm a Programmer, Developer, Coder, Basic 2d Animator from India.</h3>
 <br/>
 
-## 🙋‍♂️ About Me
+## 👨🏻‍💻 About Me
 
 
-- 🌱 Born On *12/06/2008*
+-  Born On *12/06/2008*
 
-- 👨‍💻My Websites So Far - **[My Personal Website](https://dvrscodes.com) , [My Calc Site](https://uz2qwcmmbpn6z1i2zizagw-on.drv.tw/www.dvrscalcs.ml/) , [Mathematics Courses](https://www.vittalsmathmagics.org) , [BlogSpot](https://dvrscodes.blogspot.com/) , [Snake Xenxia](https://bharadwajcode.github.io/www.snakexenzia.ml/) , [Tic Tac Toe](https://bharadwajcode.github.io/www.tictactoe.com/) , [Blastup](https://bharadwajcode.github.io/www.blastup.com/) , [Fruit Slash](https://bharadwajcode.github.io/www.fruitslash.com/) , [Tertis](https://bharadwajcode.github.io/www.tetris.play/)**
+- 💻 My Websites So Far - **Developments
+2+ Softwares
+10+ Websites (can be viewed by visiting my github repos)
+2 android apps - Speech To Text Telugu(Play Store), Smiti Women Safety App (to be published)
+8 Desktop Games - Snake Xenzia, Clock, Spinner, Caterpillar, SPACE-WARS, COVID-WAR, SPACE-WARS v2, Fruit Ninja(clone)
+Websites
+PERSONAL
+EDUCATIONAL
+TETRIS
+FRUIT SLASH
+BLAST UP
+TIC TAC TOE
+SNAKE XENZIA
+(Inspired by ideas & assignment projects from youtube)
+and few more...**
 
 - 📫 How to reach me **bharadwajdvrs@gmail.com**
 
