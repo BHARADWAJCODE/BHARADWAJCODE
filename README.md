@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="[https://i.imgur.com/iXuL1HG.png](https://cdn-icons-png.flaticon.com/512/9394/9394519.png)" height="175px"/></a>
 <!-- https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif -->
 <h1 align="center">Hi, I'm BHARADWAJ.D.V.R.S. 🖥</h1>
 <h3 align="center">I'm a Programmer, Developer, Coder, Basic 2d Animator from India.</h3>
@@ -9,9 +9,9 @@
 
 -  Born On *12/06/2008*
 
-- 💻 Developments
+- 💻 **Developments** -
               2+ Softwares10+ Websites (can be viewed by visiting my github repos)2 android apps - Speech To Text Telugu(Play Store), Smiti Women Safety App (to be published)8 Desktop Games - Snake Xenzia, Clock, Spinner, Caterpillar, SPACE-WARS, COVID-WAR, SPACE-WARS v2, Fruit Ninja(clone)  
-     Websites
+     **Websites**-
               <a href="dvrscodes.com" class="resume-pdf"> PERSONAL  </a>,
               <a href="https://bharadwajcode.github.io/vittalsmathmagics.github.io/" class="resume-pdf"> EDUCATIONAL </a>,
               <a href="https://bharadwajcode.github.io/www.tetris.play/" class="resume-pdf"> TETRIS </a>,
