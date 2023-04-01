@@ -9,18 +9,17 @@
 
 -  Born On *12/06/2008*
 
-- 💻 My Websites So Far -Developments
+- 💻 Developments
               2+ Softwares10+ Websites (can be viewed by visiting my github repos)2 android apps - Speech To Text Telugu(Play Store), Smiti Women Safety App (to be published)8 Desktop Games - Snake Xenzia, Clock, Spinner, Caterpillar, SPACE-WARS, COVID-WAR, SPACE-WARS v2, Fruit Ninja(clone)  
-              Websites
-              <a href="dvrscodes.com" class="resume-pdf"> PERSONAL  </a></li>
-              <a href="https://bharadwajcode.github.io/vittalsmathmagics.github.io/" class="resume-pdf"> EDUCATIONAL </a>
-              <a href="https://bharadwajcode.github.io/www.tetris.play/" class="resume-pdf"> TETRIS </a>
-              <a href="https://bharadwajcode.github.io/www.fruitslash.com/" class="resume-pdf"> FRUIT SLASH </a>
-              <a href="https://bharadwajcode.github.io/www.blastup.com/" class="resume-pdf"> BLAST UP </a>
-              <a href="https://bharadwajcode.github.io/www.tictactoe.com/" class="resume-pdf"> TIC TAC TOE </a>
+     Websites
+              <a href="dvrscodes.com" class="resume-pdf"> PERSONAL  </a>,
+              <a href="https://bharadwajcode.github.io/vittalsmathmagics.github.io/" class="resume-pdf"> EDUCATIONAL </a>,
+              <a href="https://bharadwajcode.github.io/www.tetris.play/" class="resume-pdf"> TETRIS </a>,
+              <a href="https://bharadwajcode.github.io/www.fruitslash.com/" class="resume-pdf"> FRUIT SLASH </a>,
+              <a href="https://bharadwajcode.github.io/www.blastup.com/" class="resume-pdf"> BLAST UP </a>,
+              <a href="https://bharadwajcode.github.io/www.tictactoe.com/" class="resume-pdf"> TIC TAC TOE </a>,
               <a href="https://bharadwajcode.github.io/www.snakexenzia.ml/" class="resume-pdf"> SNAKE XENZIA </a>
               (Inspired by ideas & assignment projects from youtube)
-              
               and few more...
 
 - 📫 Reach me **bharadwajdvrs@gmail.com**
