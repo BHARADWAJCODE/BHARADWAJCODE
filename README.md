@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://cdn-icons-png.flaticon.com/512/9394/9394519.png" height="175px"/></a>
+<a href="#"><img width="100%" height="175px" src="https://cdn-icons-png.flaticon.com/512/9394/9394519.png" height="175px"/></a>
 <!-- https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif -->
 <h1 align="center">Hi, I'm BHARADWAJ.D.V.R.S. 🖥</h1>
 <h3 align="center">I'm a Programmer, Developer, Coder, Basic 2d Animator from India.</h3>
